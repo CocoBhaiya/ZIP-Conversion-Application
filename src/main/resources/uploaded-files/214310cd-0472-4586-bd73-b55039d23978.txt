@@ -1,0 +1,6 @@
+1) %temp%
+2) cleanmgr
+3) storage -> temp file
+4) command prompt -> del /q/f/s %TEMP%\*
+5) Prefetch
+6) wsreset.exe
